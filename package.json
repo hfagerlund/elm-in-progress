@@ -1,0 +1,24 @@
+{
+  "name": "elm-in-progress",
+  "version": "0.1.0",
+  "description": "An Elm app",
+  "main": "src/Main.elm",
+  "dependencies": {},
+  "devDependencies": {
+    "elm-test": "^0.18.12"
+  },
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfagerlund/elm-in-progress.git"
+  },
+  "author": "",
+  "license": "3-Clause BSD",
+  "bugs": {
+    "url": "https://github.com/hfagerlund/elm-in-progress/issues"
+  },
+  "homepage": "https://github.com/hfagerlund/elm-in-progress#readme"
+}
