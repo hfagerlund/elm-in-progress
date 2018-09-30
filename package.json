@@ -5,11 +5,13 @@
   "main": "src/Main.elm",
   "dependencies": {},
   "devDependencies": {
+    "commitizen": "^2.10.1",
+    "cz-customizable": "^5.2.0",
     "elm-test": "^0.18.12"
   },
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/hfagerlund/elm-in-progress/issues"
   },
-  "homepage": "https://github.com/hfagerlund/elm-in-progress#readme"
+  "homepage": "https://github.com/hfagerlund/elm-in-progress#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    }
+  }
 }
