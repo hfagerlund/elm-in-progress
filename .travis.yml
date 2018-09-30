@@ -34,3 +34,7 @@ install:
 
 script:
   - elm-test --verbose
+after_success:
+  - git config --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/*
+  - git fetch --tags
+  - npm run semantic-release
