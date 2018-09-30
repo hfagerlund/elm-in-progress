@@ -1,6 +1,6 @@
 # elm-in-progress
 
-[![Minimum Elm Version](https://img.shields.io/badge/elm-%3E%3D%2018.0-%2360b5cc.svg?style=flat-square)](https://github.com/elm/) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Minimum Elm Version](https://img.shields.io/badge/elm-%3E%3D%2018.0-%2360b5cc.svg?style=flat-square)](https://github.com/elm/) [![Build Status](https://travis-ci.org/hfagerlund/elm-in-progress.svg?branch=master)](https://travis-ci.org/hfagerlund/elm-in-progress) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 * Install Elm (globally):
 ```
