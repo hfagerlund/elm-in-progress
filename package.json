@@ -1,6 +1,6 @@
 {
   "name": "elm-in-progress",
-  "version": "0.1.0",
+  "version": "0.0.0-semantically-released",
   "description": "An Elm app",
   "main": "src/Main.elm",
   "dependencies": {},
@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/hfagerlund/elm-in-progress.git"
   },
-  "author": "",
+  "author": "Heini Fagerlund",
   "license": "3-Clause BSD",
   "bugs": {
     "url": "https://github.com/hfagerlund/elm-in-progress/issues"
